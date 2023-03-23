@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+.controls button {
+  margin: 2px;
+}
+
+.editor {
+  outline: 1px solid hotpink;
+  min-height: 320px;
+  border-radius: .5rem;
+  padding: 1rem;
+  width: 100%;
+}
